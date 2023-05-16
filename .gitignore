@@ -1,3 +1,7 @@
 /data
 images_data.pt
-
+AlexNet.pth
+AlexNet2.pth
+AlexNet3.pth
+BiLSTM.pth
+classifier.pth
