@@ -1,11 +1,6 @@
 /data
 images_data.pt
-AlexNet.pth
-AlexNet2.pth
-AlexNet3.pth
-BiLSTM.pth
-classifier.pth
-AlexNet_lr=0.0001_weight_decay=0_dropout=0.5
-ResNet50_lr=0.0001_weight_decay=0_dropout=0.5
-ResNet50_lr=0.001_weight_decay=0.01_dropout=0.5
-ResNet50_lr=1e-05_weight_decay=1e-05_dropout=0.5
+BiLSTM*
+classifier*
+AlexNet*
+ResNet*
